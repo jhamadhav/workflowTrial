@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>To keep your secret is wisdom; but to expect others to keep it is folly.</i><br><i>– Samuel Johnson.</i><br></p>
+<p align="center"><br><i>All things must come to the soul from its roots, from where it is planted.</i><br><i>– Teresa of Ávila.</i><br></p>
 <!-- QUOTE:END -->
 
