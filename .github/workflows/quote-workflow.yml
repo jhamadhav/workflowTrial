@@ -13,6 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v2
       - name: pull script to get quote
         uses: jhamadhav/quote-workflow@main
       - name: Commit and push changes
