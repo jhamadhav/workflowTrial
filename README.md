@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>He who controls others may be powerful, but he who has mastered himself is mightier still.</i><br><i>– Laozi.</i><br></p>
+<p align="center"><br><i>In all things of nature there is something of the marvelous.</i><br><i>– Aristotle.</i><br></p>
 <!-- QUOTE:END -->
 
