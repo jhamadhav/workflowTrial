@@ -1,8 +1,8 @@
 # workflowTrial
 <pre>
 <!-- #quote -->
-The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.
-- Honoré de Balzac
+Choose a job you love, and you will never have to work a day in your life.
+- Confucius
 
 Updated on: [9/29/2021]
 <!-- #quoteEnd -->
