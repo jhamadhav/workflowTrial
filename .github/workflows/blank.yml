@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: 14.x
       - name: pull script to get quote
-        uses: jhamadhav/ quotesViaGithubActionCron@master
+        uses: jhamadhav/quotesViaGithubActionCron@master
       - run: npm run make
       - name: Commit and push changes
         run: |
