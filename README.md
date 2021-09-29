@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.</i><br><i>– Benjamin Franklin.</i><br></p>
+<p align="center"><br><i>An invasion of armies can be resisted, but not an idea whose time has come.</i><br><i>– Victor Hugo.</i><br></p>
 <!-- QUOTE:END -->
 
