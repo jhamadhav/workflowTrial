@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: 14.x
       - name: pull script to get quote
-        uses: jhamadhav/quote-workflow@master
+        uses: jhamadhav/quote-workflow@main
       - name: Commit and push changes
         run: |
           git config --global user.name "jhamadhav"
