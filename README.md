@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Ideas are the beginning points of all fortunes.</i><br><i>– Napoleon Hill.</i><br></p>
+<p align="center"><br><i>Love is the wisdom of the fool and the folly of the wise.</i><br><i>– Samuel Johnson.</i><br></p>
 <!-- QUOTE:END -->
 
