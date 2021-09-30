@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.</i><br><i>– Lou Holtz.</i><br></p>
+<p align="center"><br><i>This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature.</i><br><i>– Don DeLillo.</i><br></p>
 <!-- QUOTE:END -->
 
