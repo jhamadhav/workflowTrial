@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature.</i><br><i>– Don DeLillo.</i><br></p>
+<p align="center"><br><i>I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.</i><br><i>– Og Mandino.</i><br></p>
 <!-- QUOTE:END -->
 
