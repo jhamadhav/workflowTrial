@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Quality is never an accident; it is always the result of intelligent effort.</i><br><i>– John Ruskin.</i><br></p>
+<p align="center"><br><i>Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.</i><br><i>– Buddha.</i><br></p>
 <!-- QUOTE:END -->
 
