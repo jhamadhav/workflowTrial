@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Gratitude is not only the greatest of virtues, but the parent of all the others.</i><br><i>– Cicero.</i><br></p>
+<p align="center"><br><i>Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.</i><br><i>– Lou Holtz.</i><br></p>
 <!-- QUOTE:END -->
 
