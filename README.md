@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.</i><br><i>– Confucius.</i><br></p>
+<p align="center"><br><i>Gratitude is not only the greatest of virtues, but the parent of all the others.</i><br><i>– Cicero.</i><br></p>
 <!-- QUOTE:END -->
 
