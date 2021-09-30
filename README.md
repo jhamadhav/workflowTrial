@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>In all things of nature there is something of the marvelous.</i><br><i>– Aristotle.</i><br></p>
+<p align="center"><br><i>All of our technology is completely unnecessary to a happy life.</i><br><i>– Tom Hodgkinson.</i><br></p>
 <!-- QUOTE:END -->
 
