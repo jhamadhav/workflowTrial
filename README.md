@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Whoever is happy will make others happy, too.</i><br><i>– Mark Twain.</i><br></p>
+<p align="center"><br><i>The superior man blames himself. The inferior man blames others.</i><br><i>– Don Shula.</i><br></p>
 <!-- QUOTE:END -->
 
