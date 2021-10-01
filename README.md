@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>The universe is transformation; our life is what our thoughts make it.</i><br><i>– Marcus Aurelius.</i><br></p>
+<p align="center"><br><i>Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health.</i><br><i>– Dalai Lama.</i><br></p>
 <!-- QUOTE:END -->
 
