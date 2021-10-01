@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.</i><br><i>– Chanakya.</i><br></p>
+<p align="center"><br><i>The universe is transformation; our life is what our thoughts make it.</i><br><i>– Marcus Aurelius.</i><br></p>
 <!-- QUOTE:END -->
 
