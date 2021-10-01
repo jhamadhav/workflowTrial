@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Adopt the pace of nature: her secret is patience.</i><br><i>– Ralph Waldo Emerson.</i><br></p>
+<p align="center"><br><i>The best way out is always through.</i><br><i>– Robert Frost.</i><br></p>
 <!-- QUOTE:END -->
 
