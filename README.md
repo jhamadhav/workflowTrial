@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world.</i><br><i>– Jane Addams.</i><br></p>
+<p align="center"><br><i>Life is what happens while you are making other plans.</i><br><i>– John Lennon.</i><br></p>
 <!-- QUOTE:END -->
 
