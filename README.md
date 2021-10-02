@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>This is why I loved technology: if you used it right, it could give you power and privacy.</i><br><i>– Cory Doctorow.</i><br></p>
+<p align="center"><br><i>Act as if what you do makes a difference. It does.</i><br><i>– William James.</i><br></p>
 <!-- QUOTE:END -->
 
