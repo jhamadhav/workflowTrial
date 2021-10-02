@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>If you don't like something, change it. If you can't change it, change your attitude.</i><br><i>– Maya Angelou.</i><br></p>
+<p align="center"><br><i>This is why I loved technology: if you used it right, it could give you power and privacy.</i><br><i>– Cory Doctorow.</i><br></p>
 <!-- QUOTE:END -->
 
