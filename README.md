@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>The price of greatness is responsibility.</i><br><i>– Winston Churchill.</i><br></p>
+<p align="center"><br><i>To fly, we have to have resistance.</i><br><i>– Maya Lin.</i><br></p>
 <!-- QUOTE:END -->
 
