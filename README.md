@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own.</i><br><i>– Johann Wolfgang von Goethe.</i><br></p>
+<p align="center"><br><i>The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.</i><br><i>– Thomas Edison.</i><br></p>
 <!-- QUOTE:END -->
 
