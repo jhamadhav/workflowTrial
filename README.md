@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>If you propose to speak, always ask yourself, is it true, is it necessary, is it kind.</i><br><i>– Buddha.</i><br></p>
+<p align="center"><br><i>You can't shake hands with a clenched fist.</i><br><i>– Indira Gandhi.</i><br></p>
 <!-- QUOTE:END -->
 
