@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>You can't shake hands with a clenched fist.</i><br><i>– Indira Gandhi.</i><br></p>
+<p align="center"><br><i>Silence is a source of great strength.</i><br><i>– Laozi.</i><br></p>
 <!-- QUOTE:END -->
 
