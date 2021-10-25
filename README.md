@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Age does not protect you from love. But love, to some extent, protects you from age.</i><br><i>– Anaïs Nin.</i><br></p>
+<p align="center"><br><i>Whatever happens, take responsibility.</i><br><i>– Tony Robbins.</i><br></p>
 <!-- QUOTE:END -->
 
