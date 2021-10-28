@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Happiness can exist only in acceptance.</i><br><i>– George Orwell.</i><br></p>
+<p align="center"><br><i>Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.</i><br><i>– Robert Graves.</i><br></p>
 <!-- QUOTE:END -->
 
