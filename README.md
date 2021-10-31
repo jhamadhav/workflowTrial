@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>It is in your moments of decision that your destiny is shaped.</i><br><i>– Tony Robbins.</i><br></p>
+<p align="center"><br><i>Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.</i><br><i>– Theodore Isaac Rubin.</i><br></p>
 <!-- QUOTE:END -->
 
