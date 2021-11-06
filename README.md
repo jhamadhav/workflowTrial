@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Adopt the pace of nature: her secret is patience.</i><br><i>– Ralph Waldo Emerson.</i><br></p>
+<p align="center"><br><i>Love is a friendship set to music.</i><br><i>– Joseph Campbell.</i><br></p>
 <!-- QUOTE:END -->
 
