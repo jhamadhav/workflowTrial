@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>A long habit of not thinking a thing wrong gives it a superficial appearance of being right.</i><br><i>– Thomas Paine.</i><br></p>
+<p align="center"><br><i>Your friend is your needs answered.</i><br><i>– Kahlil Gibran.</i><br></p>
 <!-- QUOTE:END -->
 
