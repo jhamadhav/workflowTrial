@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>The differences between friends cannot but reinforce their friendship.</i><br><i>– Mao Zedong.</i><br></p>
+<p align="center"><br><i>Never interrupt your enemy when he is making a mistake.</i><br><i>– Napoleon.</i><br></p>
 <!-- QUOTE:END -->
 
