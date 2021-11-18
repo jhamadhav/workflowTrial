@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>The most certain sign of wisdom is cheerfulness.</i><br><i>– Michel de Montaigne.</i><br></p>
+<p align="center"><br><i>Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.</i><br><i>– Plato.</i><br></p>
 <!-- QUOTE:END -->
 
