@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Love all, trust a few, do wrong to none.</i><br><i>– William Shakespeare.</i><br></p>
+<p align="center"><br><i>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.</i><br><i>– Wayne Dyer.</i><br></p>
 <!-- QUOTE:END -->
 
