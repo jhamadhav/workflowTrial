@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Be sure you put your feet in the right place, then stand firm.</i><br><i>– Abraham Lincoln.</i><br></p>
+<p align="center"><br><i>A true friend is someone who is there for you when he'd rather be anywhere else.</i><br><i>– Len Wein.</i><br></p>
 <!-- QUOTE:END -->
 
