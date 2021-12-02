@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.</i><br><i>– William Shakespeare.</i><br></p>
+<p align="center"><br><i>If you can't explain it simply, you don't understand it well enough.</i><br><i>– Albert Einstein.</i><br></p>
 <!-- QUOTE:END -->
 
