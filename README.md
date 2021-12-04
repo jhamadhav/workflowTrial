@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>America's freedom of religion, and freedom from religion, offers every wisdom tradition an opportunity to address our soul-deep needs: Christianity, Judaism, Islam, Buddhism, Hinduism, secular humanism, agnosticism and atheism among others.</i><br><i>– Parker Palmer.</i><br></p>
+<p align="center"><br><i>It is impossible to love and to be wise.</i><br><i>– Francis Bacon.</i><br></p>
 <!-- QUOTE:END -->
 
