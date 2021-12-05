@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>It is impossible to love and to be wise.</i><br><i>– Francis Bacon.</i><br></p>
+<p align="center"><br><i>There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.</i><br><i>– Robert Louis Stevenson.</i><br></p>
 <!-- QUOTE:END -->
 
