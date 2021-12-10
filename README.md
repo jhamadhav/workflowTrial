@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Life is a succession of lessons, which must be lived to be understood.</i><br><i>– Ralph Waldo Emerson.</i><br></p>
+<p align="center"><br><i>If you smile when no one else is around, you really mean it.</i><br><i>– Andy Rooney.</i><br></p>
 <!-- QUOTE:END -->
 
