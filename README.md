@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children.</i><br><i>– Kahlil Gibran.</i><br></p>
+<p align="center"><br><i>The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it.</i><br><i>– Charlotte Perkins Gilman.</i><br></p>
 <!-- QUOTE:END -->
 
