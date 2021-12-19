@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>The more sand that has escaped from the hourglass of our life, the clearer we should see through it.</i><br><i>– Jean-Paul Sartre.</i><br></p>
+<p align="center"><br><i>People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.</i><br><i>– Tony Robbins.</i><br></p>
 <!-- QUOTE:END -->
 
