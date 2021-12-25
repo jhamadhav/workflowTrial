@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Those who are free of resentful thoughts surely find peace.</i><br><i>– Buddha.</i><br></p>
+<p align="center"><br><i>Sadness flies away on the wings of time.</i><br><i>– Jean de La Fontaine.</i><br></p>
 <!-- QUOTE:END -->
 
