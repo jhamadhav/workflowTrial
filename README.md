@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.</i><br><i>– Paavo Nurmi.</i><br></p>
+<p align="center"><br><i>The person who lives life fully, glowing with life's energy, is the person who lives a successful life.</i><br><i>– Daisaku Ikeda.</i><br></p>
 <!-- QUOTE:END -->
 
