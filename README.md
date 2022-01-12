@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>It is better to travel well than to arrive.</i><br><i>– Buddha.</i><br></p>
+<p align="center"><br><i>Reality leaves a lot to the imagination.</i><br><i>– John Lennon.</i><br></p>
 <!-- QUOTE:END -->
 
