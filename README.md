@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>A man should look for what is, and not for what he thinks should be.</i><br><i>– Albert Einstein.</i><br></p>
+<p align="center"><br><i>Truth is generally the best vindication against slander.</i><br><i>– Abraham Lincoln.</i><br></p>
 <!-- QUOTE:END -->
 
