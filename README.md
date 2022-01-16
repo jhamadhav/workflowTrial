@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Truth is generally the best vindication against slander.</i><br><i>– Abraham Lincoln.</i><br></p>
+<p align="center"><br><i>Anything you really want, you can attain, if you really go after it.</i><br><i>– Wayne Dyer.</i><br></p>
 <!-- QUOTE:END -->
 
