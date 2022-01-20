@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Friendship, like credit, is highest when it is not used.</i><br><i>– Elbert Hubbard.</i><br></p>
+<p align="center"><br><i>My friends are my estate.</i><br><i>– Emily Dickinson.</i><br></p>
 <!-- QUOTE:END -->
 
