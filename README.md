@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Everyone thinks of changing the world, but no one thinks of changing himself.</i><br><i>– Leo Tolstoy.</i><br></p>
+<p align="center"><br><i>A leader is one who knows the way, goes the way, and shows the way.</i><br><i>– John C. Maxwell.</i><br></p>
 <!-- QUOTE:END -->
 
