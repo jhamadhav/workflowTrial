@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>A leader is one who knows the way, goes the way, and shows the way.</i><br><i>– John C. Maxwell.</i><br></p>
+<p align="center"><br><i>Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.</i><br><i>– Billy Wilder.</i><br></p>
 <!-- QUOTE:END -->
 
