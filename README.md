@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>True friendship multiplies the good in life and divides its evils. Strive to have friends, for life without friends is like life on a desert island... to find one real friend in a lifetime is good fortune; to keep him is a blessing.</i><br><i>– Baltasar Gracián.</i><br></p>
+<p align="center"><br><i>Experts on romance say for a happy marriage there has to be more than a passionate love. For a lasting union, they insist, there must be a genuine liking for each other. Which, in my book, is a good definition for friendship.</i><br><i>– Marilyn Monroe.</i><br></p>
 <!-- QUOTE:END -->
 
