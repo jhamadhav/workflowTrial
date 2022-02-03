@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>To enjoy life, we must touch much of it lightly.</i><br><i>– Voltaire.</i><br></p>
+<p align="center"><br><i>The mind unlearns with difficulty what it has long learned.</i><br><i>– Seneca the Younger.</i><br></p>
 <!-- QUOTE:END -->
 
