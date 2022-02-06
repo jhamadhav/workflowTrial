@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>There are things so deep and complex that only intuition can reach it in our stage of development as human beings.</i><br><i>– John Astin.</i><br></p>
+<p align="center"><br><i>What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.</i><br><i>– Daisaku Ikeda.</i><br></p>
 <!-- QUOTE:END -->
 
