@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>If we could see the miracle of a single flower clearly, our whole life would change.</i><br><i>– Buddha.</i><br></p>
+<p align="center"><br><i>Yesterday's home runs don't win today's games.</i><br><i>– Babe Ruth.</i><br></p>
 <!-- QUOTE:END -->
 
