@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Yesterday's home runs don't win today's games.</i><br><i>– Babe Ruth.</i><br></p>
+<p align="center"><br><i>From error to error one discovers the entire truth.</i><br><i>– Sigmund Freud.</i><br></p>
 <!-- QUOTE:END -->
 
