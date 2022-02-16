@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that one's life has meaning, that one is needed in this world.</i><br><i>– Hannah Szenes.</i><br></p>
+<p align="center"><br><i>Beginning today, treat everyone you meet as if they were going to be dead by midnight. Extend to them all the care, kindness and understanding you can muster, and do it with no thought of any reward. Your life will never be the same again.</i><br><i>– Og Mandino.</i><br></p>
 <!-- QUOTE:END -->
 
