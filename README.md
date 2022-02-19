@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.</i><br><i>– Albert Einstein.</i><br></p>
+<p align="center"><br><i>If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.</i><br><i>– Anne Bradstreet.</i><br></p>
 <!-- QUOTE:END -->
 
