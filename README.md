@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>If one does not know to which port is sailing, no wind is favorable.</i><br><i>– Seneca the Younger.</i><br></p>
+<p align="center"><br><i>If you correct your mind, the rest of your life will fall into place.</i><br><i>– Laozi.</i><br></p>
 <!-- QUOTE:END -->
 
