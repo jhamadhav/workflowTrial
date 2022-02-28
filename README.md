@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.</i><br><i>– Nikola Tesla.</i><br></p>
+<p align="center"><br><i>You cannot be lonely if you like the person you're alone with.</i><br><i>– Wayne Dyer.</i><br></p>
 <!-- QUOTE:END -->
 
