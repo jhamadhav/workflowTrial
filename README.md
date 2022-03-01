@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>You cannot be lonely if you like the person you're alone with.</i><br><i>– Wayne Dyer.</i><br></p>
+<p align="center"><br><i>Beware of false knowledge; it is more dangerous than ignorance.</i><br><i>– Bernard Shaw.</i><br></p>
 <!-- QUOTE:END -->
 
