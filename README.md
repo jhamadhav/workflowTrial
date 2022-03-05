@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation.</i><br><i>– Paul Theroux.</i><br></p>
+<p align="center"><br><i>Don't turn away from possible futures before you're certain you don't have anything to learn from them.</i><br><i>– Richard Bach.</i><br></p>
 <!-- QUOTE:END -->
 
