@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.</i><br><i>– Daisaku Ikeda.</i><br></p>
+<p align="center"><br><i>They can do all because they think they can.</i><br><i>– Virgil.</i><br></p>
 <!-- QUOTE:END -->
 
