@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.</i><br><i>– Anne Brontë.</i><br></p>
+<p align="center"><br><i>Start where you are. Use what you have. Do what you can.</i><br><i>– Arthur Ashe.</i><br></p>
 <!-- QUOTE:END -->
 
