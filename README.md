@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>The least movement is of importance to all nature. The entire ocean is affected by a pebble.</i><br><i>– Blaise Pascal.</i><br></p>
+<p align="center"><br><i>Change your life today. Don't gamble on the future, act now, without delay.</i><br><i>– Simone de Beauvoir.</i><br></p>
 <!-- QUOTE:END -->
 
