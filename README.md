@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Change your life today. Don't gamble on the future, act now, without delay.</i><br><i>– Simone de Beauvoir.</i><br></p>
+<p align="center"><br><i>You're never a loser until you quit trying.</i><br><i>– Mike Ditka.</i><br></p>
 <!-- QUOTE:END -->
 
