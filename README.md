@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Begin at once to live and count each separate day as a separate life.</i><br><i>– Seneca the Younger.</i><br></p>
+<p align="center"><br><i>The truest wisdom is a resolute determination.</i><br><i>– Napoleon.</i><br></p>
 <!-- QUOTE:END -->
 
