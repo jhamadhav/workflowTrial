@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>This is the final test of a gentleman: his respect for those who can be of no possible value to him.</i><br><i>– William Lyon Phelps.</i><br></p>
+<p align="center"><br><i>Life is what you make of it. Always has been, always will be.</i><br><i>– Grandma Moses.</i><br></p>
 <!-- QUOTE:END -->
 
