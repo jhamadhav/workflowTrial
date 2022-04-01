@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Life is what you make of it. Always has been, always will be.</i><br><i>– Grandma Moses.</i><br></p>
+<p align="center"><br><i>Rejoicing in our joy, not suffering over our suffering, makes someone a friend.</i><br><i>– Friedrich Nietzsche.</i><br></p>
 <!-- QUOTE:END -->
 
