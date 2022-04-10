@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more</i><br><i>– Tony Robbins.</i><br></p>
+<p align="center"><br><i>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.</i><br><i>– Samuel Beckett.</i><br></p>
 <!-- QUOTE:END -->
 
