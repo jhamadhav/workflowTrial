@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.</i><br><i>– Samuel Beckett.</i><br></p>
+<p align="center"><br><i>To change one's life, start immediately, do it flamboyantly, no exceptions.</i><br><i>– William James.</i><br></p>
 <!-- QUOTE:END -->
 
