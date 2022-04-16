@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>The great myth of our times is that technology is communication.</i><br><i>– Libby Larsen.</i><br></p>
+<p align="center"><br><i>All things must come to the soul from its roots, from where it is planted.</i><br><i>– Teresa of Ávila.</i><br></p>
 <!-- QUOTE:END -->
 
