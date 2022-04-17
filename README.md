@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>All things must come to the soul from its roots, from where it is planted.</i><br><i>– Teresa of Ávila.</i><br></p>
+<p align="center"><br><i>The only journey is the one within.</i><br><i>– Rainer Maria Rilke.</i><br></p>
 <!-- QUOTE:END -->
 
