@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>We never live; we are always in the expectation of living.</i><br><i>– Voltaire.</i><br></p>
+<p align="center"><br><i>Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.</i><br><i>– Eleanor Roosevelt.</i><br></p>
 <!-- QUOTE:END -->
 
