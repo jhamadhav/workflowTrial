@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Sometimes the most important thing in a whole day is the rest we take between two deep breaths.</i><br><i>– Etty Hillesum.</i><br></p>
+<p align="center"><br><i>The minute you settle for less than you deserve, you get even less than you settled for.</i><br><i>– Maureen Dowd.</i><br></p>
 <!-- QUOTE:END -->
 
