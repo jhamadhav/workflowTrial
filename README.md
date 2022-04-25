@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>The minute you settle for less than you deserve, you get even less than you settled for.</i><br><i>– Maureen Dowd.</i><br></p>
+<p align="center"><br><i>Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.</i><br><i>– Farhan Akhtar.</i><br></p>
 <!-- QUOTE:END -->
 
