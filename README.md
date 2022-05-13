@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>With the realization of one's own potential and self-confidence in one's ability, one can build a better world.</i><br><i>– Dalai Lama.</i><br></p>
+<p align="center"><br><i>Time stays long enough for anyone who will use it.</i><br><i>– Leonardo da Vinci.</i><br></p>
 <!-- QUOTE:END -->
 
