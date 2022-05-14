@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Time stays long enough for anyone who will use it.</i><br><i>– Leonardo da Vinci.</i><br></p>
+<p align="center"><br><i>Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.</i><br><i>– George S. Patton.</i><br></p>
 <!-- QUOTE:END -->
 
