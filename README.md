@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.</i><br><i>– George S. Patton.</i><br></p>
+<p align="center"><br><i>A friend may well be reckoned the masterpiece of nature.</i><br><i>– Ralph Waldo Emerson.</i><br></p>
 <!-- QUOTE:END -->
 
