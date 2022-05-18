@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate.</i><br><i>– Zhuang Zhou.</i><br></p>
+<p align="center"><br><i>The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.</i><br><i>– Anaïs Nin.</i><br></p>
 <!-- QUOTE:END -->
 
