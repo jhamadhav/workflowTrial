@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.</i><br><i>– Diogenes.</i><br></p>
+<p align="center"><br><i>A really great talent finds its happiness in execution.</i><br><i>– Johann Wolfgang von Goethe.</i><br></p>
 <!-- QUOTE:END -->
 
