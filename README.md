@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Imagination is the living power and prime agent of all human perception.</i><br><i>– Samuel Taylor Coleridge.</i><br></p>
+<p align="center"><br><i>A rolling stone gathers no moss.</i><br><i>– Publilius Syrus.</i><br></p>
 <!-- QUOTE:END -->
 
