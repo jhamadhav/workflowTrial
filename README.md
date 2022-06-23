@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>The mind unlearns with difficulty what it has long learned.</i><br><i>– Seneca the Younger.</i><br></p>
+<p align="center"><br><i>It takes courage to grow up and become who you really are.</i><br><i>– E. E. Cummings.</i><br></p>
 <!-- QUOTE:END -->
 
