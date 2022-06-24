@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>It takes courage to grow up and become who you really are.</i><br><i>– E. E. Cummings.</i><br></p>
+<p align="center"><br><i>Reason and free inquiry are the only effectual agents against error.</i><br><i>– Thomas Jefferson.</i><br></p>
 <!-- QUOTE:END -->
 
