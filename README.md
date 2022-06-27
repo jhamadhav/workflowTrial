@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>How is it possible to find meaning in a finite world, given my waist and shirt size?</i><br><i>– Woody Allen.</i><br></p>
+<p align="center"><br><i>Happiness does not come from having much, but from being attached to little.</i><br><i>– Cheng Yen.</i><br></p>
 <!-- QUOTE:END -->
 
