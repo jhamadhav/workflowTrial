@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Happiness does not come from having much, but from being attached to little.</i><br><i>– Cheng Yen.</i><br></p>
+<p align="center"><br><i>In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.</i><br><i>– Richard Bach.</i><br></p>
 <!-- QUOTE:END -->
 
