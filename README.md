@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Patience is the companion of wisdom.</i><br><i>– Augustine of Hippo.</i><br></p>
+<p align="center"><br><i>Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.</i><br><i>– Winston Churchill.</i><br></p>
 <!-- QUOTE:END -->
 
