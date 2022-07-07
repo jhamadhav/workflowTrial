@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>A tree is known by its fruit; a man by his deeds. A good deed is never lost; he who sows courtesy reaps friendship, and he who plants kindness gathers love.</i><br><i>– Basil of Caesarea.</i><br></p>
+<p align="center"><br><i>I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.</i><br><i>– Plutarch.</i><br></p>
 <!-- QUOTE:END -->
 
