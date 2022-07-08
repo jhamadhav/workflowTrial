@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.</i><br><i>– Plutarch.</i><br></p>
+<p align="center"><br><i>Most great people have attained their greatest success just one step beyond their greatest failure.</i><br><i>– Napoleon Hill.</i><br></p>
 <!-- QUOTE:END -->
 
