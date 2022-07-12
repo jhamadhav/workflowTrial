@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>We shall never know all the good that a simple smile can do.</i><br><i>– Mother Teresa.</i><br></p>
+<p align="center"><br><i>The cause is hidden. The effect is visible to all.</i><br><i>– Ovid.</i><br></p>
 <!-- QUOTE:END -->
 
