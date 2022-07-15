@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>A friend to all is a friend to none.</i><br><i>– Aristotle.</i><br></p>
+<p align="center"><br><i>All children are artists. The problem is how to remain an artist once he grows up.</i><br><i>– Pablo Picasso.</i><br></p>
 <!-- QUOTE:END -->
 
