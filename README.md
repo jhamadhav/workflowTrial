@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>Opportunity does not knock, it presents itself when you beat down the door.</i><br><i>– Kyle Chandler.</i><br></p>
+<p align="center"><br><i>A failure is a man who has blundered but is not capable of cashing in on the experience.</i><br><i>– Elbert Hubbard.</i><br></p>
 <!-- QUOTE:END -->
 
