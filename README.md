@@ -1,5 +1,5 @@
 # workflowTrial
 <!-- QUOTE:START -->
-<p align="center"><br><i>If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude.</i><br><i>– Colin Powell.</i><br></p>
+<p align="center"><br><i>The Superior Man is aware of Righteousness, the inferior man is aware of advantage.</i><br><i>– Confucius.</i><br></p>
 <!-- QUOTE:END -->
 
